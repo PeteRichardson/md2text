@@ -1,0 +1,33 @@
+{
+  "originHash" : "4f58ac885c3952878ae304dc577f383d30cb6cc99959ed0a3d687b4da2c00c34",
+  "pins" : [
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "revision" : "0c627a4f8a39ef37eadec1ceec02e4a7f55561ac",
+        "version" : "4.1.0"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-cmark.git",
+      "state" : {
+        "revision" : "b022b08312decdc46585e0b3440d97f6f22ef703",
+        "version" : "0.6.0"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-markdown",
+      "state" : {
+        "revision" : "ea79e83c8744d2b50b0dc2d5bbd1e857e1253bf9",
+        "version" : "0.6.0"
+      }
+    }
+  ],
+  "version" : 3
+}
